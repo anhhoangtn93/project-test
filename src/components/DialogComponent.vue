@@ -121,7 +121,7 @@ export default {
             ...mapActions({
                 setShowModal: "modal/setShowModal",
             }),
-            dialog: true,
+            dialog: false,
         }
     },
     watch: {

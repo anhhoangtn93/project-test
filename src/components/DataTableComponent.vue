@@ -85,8 +85,8 @@
 <script>
 export default {
     data: () => ({
-        viettelPhoneNumber: /^(0|84)(32|33|34|35|36|37|38|39|96|97|98|86)+([0-9]{6,7})/s,
-        vinaPhoneNumber: /^(0|84)(88|91|94|81|82|83|84|85)+([0-9]{6,7})/s,
+        viettelPhoneNumber: /^(0|84)(32|33|34|35|36|37|38|39|96|97|98|86)+([0-9]{6,7})$/s,
+        vinaPhoneNumber: /^(0|84)(88|91|94|81|82|83|84|85)+([0-9]{6,7})$/s,
         dialog: false,
         dialogDelete: false,
         incorrectPhoneNumbers: 0,
