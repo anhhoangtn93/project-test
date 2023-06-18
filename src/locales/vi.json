@@ -1,0 +1,17 @@
+{
+    "message": "Xin chào!",
+    "login-title": "SMS Gateway",
+    "login-dialog-title": "Đăng nhập",
+    "email-label": "Email",
+    "password-label": "Mật khẩu",
+    "login-btn": "Đăng nhập",
+    "remember-label": "Ghi nhớ mật khẩu",
+    "menu": {
+        "home": "Trang chủ"
+    },
+    "operater-page": "Danh sánh nhà mạng",
+    "operater-title": "Quản lý nhà mạng",
+    "create-btn": "Tạo mới",
+    "operater-label-show": "Hiển thị",
+    "operater-label-entries":"bản ghi"
+}
